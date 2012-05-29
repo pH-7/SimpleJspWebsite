@@ -1,0 +1,33 @@
+/**
+* @author Pierre-Henry Soria <pierrehs@hotmail.com>
+* @link http://github.com/pH-7
+* @copyright Copyright pH7 Script All Rights Reserved.
+* @license CC-BY - http://creativecommons.org/licenses/by/3.0/
+*/
+
+.m_pic img{
+  opacity:1;
+  transition:opacity .35s ease-in-out;
+  -webkit-transition:opacity .35s ease-in-out;
+  -moz-transition:opacity .35s ease-in-out;
+  -o-transition:opacity .35s ease-in-out;
+  -ms-transition:opacity .35s ease-in-out;
+  -khtml-transition:opacity .35s ease-in-out;
+}
+.m_pic img:hover{opacity:0.5}
+
+.border{margin:2px 2px 2px 2px;border:1px solid #999}
+.fork_icon{position:absolute;top:0;right:0;border:0;z-index:9999}
+.small{font-size:8pt}
+.underline{text-decoration:underline}
+.italic{font-style:italic}
+.gray{color:#999}
+.center {
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+width:80%;
+}
+
+/** AddThis **/
+.addthis_toolbox .at15t_compact{margin-right:0}
