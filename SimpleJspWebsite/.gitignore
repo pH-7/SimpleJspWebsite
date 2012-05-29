@@ -1,8 +1,0 @@
-*.class
-.classpath
-.project
-.loadpath
-.metadata
-.settings/
-build/
-*~
