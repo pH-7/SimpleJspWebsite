@@ -4,7 +4,7 @@
 <%
 String title = "Help Me";
 
-request.setAttribute("title", title);
+request.setAttribute("pageTitle", title);
 request.setAttribute("pageHeading", title);
 %>
 

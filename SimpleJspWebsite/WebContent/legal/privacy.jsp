@@ -2,7 +2,10 @@
     pageEncoding="UTF-8"%>
 
 <%
-request.setAttribute("pageHeading", "Privacy Policy");
+String title = "Privacy Policy";
+
+request.setAttribute("pageTitle", title);
+request.setAttribute("pageHeading", title);
 %>
 <jsp:include page="/WEB-INF/jsp/header.inc.jsp"></jsp:include>
 

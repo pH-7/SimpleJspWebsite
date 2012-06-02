@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>${pageTitle}</title>
+<title>${pageTitle} - ${siteName}</title>
 <meta name="description" content="${metaDescription}" />
 <meta name="keywords" content="${metaKeywords}" />
   <meta name="author" content="Pierre-Henry Soria" />
