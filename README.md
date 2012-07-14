@@ -11,13 +11,6 @@ It is compatible with the application server Tomcat.
 
 Please copy the WAR file to TOMCAT_HOME/webapps/ and start your Tomcat server.
 
-========== AUTHOR ==========
-
-Pierre-Henry Soria
-
-========== CONTACT ==========
-
-pierrehs@hotmail.com
 
 ========== LICENSE ==========
 
