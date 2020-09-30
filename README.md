@@ -2,6 +2,7 @@ SimpleJspWebsite
 ================
 
 This is a simple example of the JSP Java Website.
+JSP stands for JAVA server pages.
 
 
 ========== INTRODUCTION ==========
